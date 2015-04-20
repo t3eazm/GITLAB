@@ -2,5 +2,6 @@
 
 void main()
 {
-    printf("Hello World");
+    printf("Hello World for Problem 18 /n");
+    printf("EXIT")
 }
